@@ -1,0 +1,3 @@
+//fazendo descer
+
+vspeed = vel;

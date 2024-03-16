@@ -1,0 +1,4 @@
+//fazendo subir
+
+vspeed = -vel;
+
